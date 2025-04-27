@@ -1,5 +1,4 @@
-# DATA-ANALYST-TASK-3
-
+**# TASK-3 - SQL for Data Analysis**
 
 **📋 Task Overview**
 This task is part of the Data Analyst Internship program. The objective was to perform SQL-based data extraction, manipulation, and analysis using a sample Ecommerce database (or any suitable dataset).
