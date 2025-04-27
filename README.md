@@ -1,9 +1,10 @@
 # DATA-ANALYST-TASK-3
 
-📋 Task Overview
+
+**📋 Task Overview**
 This task is part of the Data Analyst Internship program. The objective was to perform SQL-based data extraction, manipulation, and analysis using a sample Ecommerce database (or any suitable dataset).
 
-Key Requirements:
+**Key Requirements:**
 
 Use SQL queries to retrieve and analyze data
 
@@ -17,7 +18,9 @@ Use aggregate functions like SUM, AVG
 
 Apply query optimization techniques
 
-🛠 Tools Used
+
+
+**🛠 Tools Used**
 SQL: MySQL / PostgreSQL / SQLite
 
 Database: Ecommerce SQL Dataset (or chosen dataset)
@@ -25,7 +28,8 @@ Database: Ecommerce SQL Dataset (or chosen dataset)
 Platform: Local environment or DBMS tool
 
 
-📈 What I Did
+
+**📈 What I Did**
 Wrote SQL queries to answer analytical questions
 
 Applied different types of joins to combine data
@@ -39,7 +43,7 @@ Created SQL views for reusable queries
 Optimized queries by adding appropriate indexes
 
 
-🚀 How to Run
+**🚀 How to Run**
 Clone the repository:
 
 git clone https://github.com/kareddy23/DATA-ANALYST-TASK-3.git
